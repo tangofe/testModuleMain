@@ -1,0 +1,3 @@
+[submodule "testModuleSub"]
+	path = testModuleSub
+	url = https://github.com/tangofe/testModuleSub.git
